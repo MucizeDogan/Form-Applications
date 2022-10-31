@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\bin\Debug\3.1_Donguler_FOR.exe.config
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\bin\Debug\3.1_Donguler_FOR.exe
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\bin\Debug\3.1_Donguler_FOR.pdb
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\3.1_Donguler_FOR.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\3.1_Donguler_FOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\_3._1_Donguler_FOR.Form1.resources
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\_3._1_Donguler_FOR.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\3.1_Donguler_FOR.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\3.1_Donguler_FOR.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\3.1_Donguler_FOR.exe
+C:\Users\mucize\Desktop\C#\3.1_Donguler_FOR\3.1_Donguler_FOR\obj\Debug\3.1_Donguler_FOR.pdb

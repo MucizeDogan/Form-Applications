@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\bin\Debug\3.2_Donguler_FOR-Ornekler.exe.config
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\bin\Debug\3.2_Donguler_FOR-Ornekler.exe
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\bin\Debug\3.2_Donguler_FOR-Ornekler.pdb
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\3.2_Donguler_FOR-Ornekler.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\3.2_Donguler_FOR-Ornekler.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\_3._2_Donguler_FOR_Ornekler.Form1.resources
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\_3._2_Donguler_FOR_Ornekler.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\3.2_Donguler_FOR-Ornekler.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\3.2_Donguler_FOR-Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\3.2_Donguler_FOR-Ornekler.exe
+C:\Users\mucize\Desktop\C#\3.2_Donguler_FOR-Ornekler\3.2_Donguler_FOR-Ornekler\obj\Debug\3.2_Donguler_FOR-Ornekler.pdb
