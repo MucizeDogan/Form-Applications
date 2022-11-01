@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\bin\Debug\2.1_If-Else.exe.config
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\bin\Debug\2.1_If-Else.exe
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\bin\Debug\2.1_If-Else.pdb
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\2.1_If-Else.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\2.1_If-Else.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\_2._1_If_Else.Form1.resources
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\_2._1_If_Else.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\2.1_If-Else.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\2.1_If-Else.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\2.1_If-Else.exe
+C:\Users\mucize\Desktop\C#\2.1_If-Else\2.1_If-Else\obj\Debug\2.1_If-Else.pdb
