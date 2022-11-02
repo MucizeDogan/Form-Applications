@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\bin\Debug\3.5_Timer.exe.config
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\bin\Debug\3.5_Timer.exe
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\bin\Debug\3.5_Timer.pdb
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\3.5_Timer.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\3.5_Timer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\_3._5_Timer.Form1.resources
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\_3._5_Timer.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\3.5_Timer.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\3.5_Timer.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\3.5_Timer.exe
+C:\Users\mucize\Desktop\C#\3.5_Timer\3.5_Timer\obj\Debug\3.5_Timer.pdb
