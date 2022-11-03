@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\bin\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).exe.config
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\bin\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).exe
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\bin\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).pdb
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\_3._7_Ornek_ProgressBar_Tımer_PastaPisirmeSurec_.Form1.resources
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\_3._7_Ornek_ProgressBar_Tımer_PastaPisirmeSurec_.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).exe
+C:\Users\mucize\Desktop\C#\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec)\obj\Debug\3.7_Ornek_ProgressBar-Tımer(PastaPisirmeSurec).pdb
