@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\bin\Debug\4.1_Diziler.exe.config
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\bin\Debug\4.1_Diziler.exe
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\bin\Debug\4.1_Diziler.pdb
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\4.1_Diziler.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\4.1_Diziler.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\_4._1_Diziler.Form1.resources
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\_4._1_Diziler.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\4.1_Diziler.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\4.1_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\4.1_Diziler.exe
+C:\Users\mucize\Desktop\C#\4.1_Diziler\4.1_Diziler\obj\Debug\4.1_Diziler.pdb
