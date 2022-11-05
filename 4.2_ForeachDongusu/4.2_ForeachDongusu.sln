@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.2_ForeachDongusu", "4.2_ForeachDongusu\4.2_ForeachDongusu.csproj", "{2F9B5006-9BB8-447A-ACB7-D413DB529E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9B5006-9BB8-447A-ACB7-D413DB529E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9B5006-9BB8-447A-ACB7-D413DB529E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9B5006-9BB8-447A-ACB7-D413DB529E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9B5006-9BB8-447A-ACB7-D413DB529E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB1ADB2-4EA2-4C81-B767-B5C688AC9518}
+	EndGlobalSection
+EndGlobal

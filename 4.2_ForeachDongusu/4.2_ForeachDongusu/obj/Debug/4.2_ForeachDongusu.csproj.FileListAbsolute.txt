@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\bin\Debug\4.2_ForeachDongusu.exe.config
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\bin\Debug\4.2_ForeachDongusu.exe
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\bin\Debug\4.2_ForeachDongusu.pdb
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\4.2_ForeachDongusu.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\4.2_ForeachDongusu.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\_4._2_ForeachDongusu.Form1.resources
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\_4._2_ForeachDongusu.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\4.2_ForeachDongusu.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\4.2_ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\4.2_ForeachDongusu.exe
+C:\Users\mucize\Desktop\C#\4.2_ForeachDongusu\4.2_ForeachDongusu\obj\Debug\4.2_ForeachDongusu.pdb
