@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\bin\Debug\5.1_Metotlar_Dondurmeyen.exe.config
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\bin\Debug\5.1_Metotlar_Dondurmeyen.exe
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\bin\Debug\5.1_Metotlar_Dondurmeyen.pdb
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\5.1_Metotlar_Dondurmeyen.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\5.1_Metotlar_Dondurmeyen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\_5._1_Metotlar_Dondurmeyen.Form1.resources
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\_5._1_Metotlar_Dondurmeyen.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\5.1_Metotlar_Dondurmeyen.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\5.1_Metotlar_Dondurmeyen.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\5.1_Metotlar_Dondurmeyen.exe
+C:\Users\mucize\Desktop\C#\5.1_Metotlar_Dondurmeyen\5.1_Metotlar_Dondurmeyen\obj\Debug\5.1_Metotlar_Dondurmeyen.pdb
