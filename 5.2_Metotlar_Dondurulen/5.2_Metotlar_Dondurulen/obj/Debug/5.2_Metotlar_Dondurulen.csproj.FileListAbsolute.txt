@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\5.2_Metotlar_Dondurulen.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\5.2_Metotlar_Dondurulen.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\_5._2_Metotlar_Dondurulen.Form1.resources
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\_5._2_Metotlar_Dondurulen.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\5.2_Metotlar_Dondurulen.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\5.2_Metotlar_Dondurulen.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\bin\Debug\5.2_Metotlar_Dondurulen.exe.config
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\bin\Debug\5.2_Metotlar_Dondurulen.exe
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\bin\Debug\5.2_Metotlar_Dondurulen.pdb
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\5.2_Metotlar_Dondurulen.exe
+C:\Users\mucize\Desktop\C#\5.2_Metotlar_Dondurulen\5.2_Metotlar_Dondurulen\obj\Debug\5.2_Metotlar_Dondurulen.pdb
