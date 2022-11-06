@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.5_SınıflarveMetot_KendiOrnegim", "6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim.csproj", "{EAB5E82A-64C8-4D5A-A54F-475BC21B1C58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB5E82A-64C8-4D5A-A54F-475BC21B1C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB5E82A-64C8-4D5A-A54F-475BC21B1C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB5E82A-64C8-4D5A-A54F-475BC21B1C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB5E82A-64C8-4D5A-A54F-475BC21B1C58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A9EF4BB-6BAD-46F2-978D-B930D8210DAC}
+	EndGlobalSection
+EndGlobal

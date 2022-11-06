@@ -1,0 +1,15 @@
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.AssemblyInfoInputs.cache
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.AssemblyInfo.cs
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\bin\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.exe
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\bin\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.deps.json
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\bin\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.runtimeconfig.json
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\bin\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.dll
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\bin\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.pdb
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.dll
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\refint\6.5_SınıflarveMetot_KendiOrnegim.dll
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.pdb
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\6.5_SınıflarveMetot_KendiOrnegim.genruntimeconfig.cache
+C:\Users\mucize\Desktop\C#\6.5_SınıflarveMetot_KendiOrnegim\6.5_SınıflarveMetot_KendiOrnegim\obj\Debug\net6.0\ref\6.5_SınıflarveMetot_KendiOrnegim.dll
