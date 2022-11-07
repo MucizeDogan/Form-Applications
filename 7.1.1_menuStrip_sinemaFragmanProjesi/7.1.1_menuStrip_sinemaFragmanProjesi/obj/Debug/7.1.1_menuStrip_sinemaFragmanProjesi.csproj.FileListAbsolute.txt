@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\bin\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.exe.config
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\bin\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.exe
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\bin\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.pdb
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\_7._1._1_menuStrip_sinemaFragmanProjesi.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.exe
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\7.1.1_menuStrip_sinemaFragmanProjesi.pdb
+C:\Users\mucize\Desktop\C#\7.1.1_menuStrip_sinemaFragmanProjesi\7.1.1_menuStrip_sinemaFragmanProjesi\obj\Debug\_7._1._1_menuStrip_sinemaFragmanProjesi.Form1.resources
