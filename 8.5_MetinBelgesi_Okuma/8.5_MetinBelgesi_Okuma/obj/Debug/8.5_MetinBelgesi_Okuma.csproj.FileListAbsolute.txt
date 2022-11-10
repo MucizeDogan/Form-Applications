@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\bin\Debug\8.5_MetinBelgesi_Okuma.exe.config
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\bin\Debug\8.5_MetinBelgesi_Okuma.exe
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\bin\Debug\8.5_MetinBelgesi_Okuma.pdb
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\8.5_MetinBelgesi_Okuma.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\8.5_MetinBelgesi_Okuma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\_8._5_MetinBelgesi_Okuma.Form1.resources
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\_8._5_MetinBelgesi_Okuma.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\8.5_MetinBelgesi_Okuma.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\8.5_MetinBelgesi_Okuma.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\8.5_MetinBelgesi_Okuma.exe
+C:\Users\mucize\Desktop\C#\8.5_MetinBelgesi_Okuma\8.5_MetinBelgesi_Okuma\obj\Debug\8.5_MetinBelgesi_Okuma.pdb
