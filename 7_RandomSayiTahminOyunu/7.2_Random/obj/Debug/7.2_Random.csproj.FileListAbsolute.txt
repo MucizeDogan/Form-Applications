@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\bin\Debug\7.2_Random.exe.config
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\bin\Debug\7.2_Random.exe
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\bin\Debug\7.2_Random.pdb
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\7.2_Random.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\7.2_Random.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\_7._2_Random.Form1.resources
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\_7._2_Random.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\7.2_Random.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\7.2_Random.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\7.2_Random.exe
+C:\Users\mucize\Desktop\C#\7.2_Random\7.2_Random\obj\Debug\7.2_Random.pdb
