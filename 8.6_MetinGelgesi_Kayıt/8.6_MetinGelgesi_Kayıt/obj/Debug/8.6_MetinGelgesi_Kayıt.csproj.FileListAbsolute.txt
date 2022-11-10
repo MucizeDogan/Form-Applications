@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\bin\Debug\8.6_MetinGelgesi_Kayıt.exe.config
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\bin\Debug\8.6_MetinGelgesi_Kayıt.exe
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\bin\Debug\8.6_MetinGelgesi_Kayıt.pdb
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\8.6_MetinGelgesi_Kayıt.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\8.6_MetinGelgesi_Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\_8._6_MetinGelgesi_Kayıt.Form1.resources
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\_8._6_MetinGelgesi_Kayıt.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\8.6_MetinGelgesi_Kayıt.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\8.6_MetinGelgesi_Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\8.6_MetinGelgesi_Kayıt.exe
+C:\Users\mucize\Desktop\C#\8.6_MetinGelgesi_Kayıt\8.6_MetinGelgesi_Kayıt\obj\Debug\8.6_MetinGelgesi_Kayıt.pdb
