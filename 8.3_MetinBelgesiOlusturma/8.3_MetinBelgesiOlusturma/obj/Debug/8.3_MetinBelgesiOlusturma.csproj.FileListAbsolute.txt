@@ -1,0 +1,11 @@
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\bin\Debug\8.3_MetinBelgesiOlusturma.exe.config
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\bin\Debug\8.3_MetinBelgesiOlusturma.exe
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\bin\Debug\8.3_MetinBelgesiOlusturma.pdb
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\8.3_MetinBelgesiOlusturma.csproj.AssemblyReference.cache
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\8.3_MetinBelgesiOlusturma.csproj.SuggestedBindingRedirects.cache
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\_8._3_MetinBelgesiOlusturma.Form1.resources
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\_8._3_MetinBelgesiOlusturma.Properties.Resources.resources
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\8.3_MetinBelgesiOlusturma.csproj.GenerateResource.cache
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\8.3_MetinBelgesiOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\8.3_MetinBelgesiOlusturma.exe
+C:\Users\mucize\Desktop\C#\8.3_MetinBelgesiOlusturma\8.3_MetinBelgesiOlusturma\obj\Debug\8.3_MetinBelgesiOlusturma.pdb
